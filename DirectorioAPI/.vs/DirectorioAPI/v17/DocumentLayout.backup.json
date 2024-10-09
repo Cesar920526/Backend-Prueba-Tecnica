@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\directorioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\directorioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\repository\\iempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\repository\\iempleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\repository\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|f:\\usuario\\documentos\\prueba tecnica\\backend\\directorioapi\\directorioapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C49AB-75DD-4ED0-A4DB-4BAE50E83AB5}|DirectorioAPI\\DirectorioAPI.csproj|solutionrelative:directorioapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectorioAPI.csproj",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\DirectorioAPI.csproj",
+              "RelativeDocumentMoniker": "DirectorioAPI\\DirectorioAPI.csproj",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\DirectorioAPI.csproj",
+              "RelativeToolTip": "DirectorioAPI\\DirectorioAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T08:56:02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DirectorioAPI\\appsettings.json",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\appsettings.json",
+              "RelativeToolTip": "DirectorioAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T02:57:06.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Repository\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "DirectorioAPI\\Repository\\EmpleadoRepository.cs",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Repository\\EmpleadoRepository.cs",
+              "RelativeToolTip": "DirectorioAPI\\Repository\\EmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:17:06.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmpleadoRepository.cs",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Repository\\IEmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "DirectorioAPI\\Repository\\IEmpleadoRepository.cs",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Repository\\IEmpleadoRepository.cs",
+              "RelativeToolTip": "DirectorioAPI\\Repository\\IEmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:16:39.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "DirectorioAPI\\Services\\EmpleadoService.cs",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "DirectorioAPI\\Services\\EmpleadoService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:15:41.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Services\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "DirectorioAPI\\Services\\IEmpleadoService.cs",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Services\\IEmpleadoService.cs",
+              "RelativeToolTip": "DirectorioAPI\\Services\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:15:17.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DirectorioAPI\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DirectorioAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T13:05:26.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "DirectorioAPI\\Models\\Empleado.cs",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Models\\Empleado.cs",
+              "RelativeToolTip": "DirectorioAPI\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:44:59.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "DirectorioAPI\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "DirectorioAPI\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:20:19.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DirectorioAPI\\Program.cs",
+              "ToolTip": "F:\\Usuario\\Documentos\\Prueba Tecnica\\Backend\\DirectorioAPI\\DirectorioAPI\\Program.cs",
+              "RelativeToolTip": "DirectorioAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:36:03.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
